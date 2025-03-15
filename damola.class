@@ -1,5 +1,7 @@
 public class damola{
 
-  public static voide main (strings[] args)
-{ system.out.println ("Hello World. This is my first program")}
+  public static void main (strings[] args)
+{ system.out.println ("Hello World. This is my first program");
+system.out.println("Just checking stuff with git");
+}
 }
